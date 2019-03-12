@@ -13,7 +13,7 @@ if (window.jQuery) {
                 if (code == 13) {
                     if (typeof opt1 == 'function')
                     {
-                        callback(me, opt2);
+                        opt1(me, opt2);
                         return true;
                     }else if (opt1 == 'tab')
                     {
