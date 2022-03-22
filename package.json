@@ -1,0 +1,24 @@
+{
+  "name": "@designly/jquery.onenter",
+  "version": "1.0.0",
+  "description": "A jQuery library for handling the enter key in forms.",
+  "main": "jquery.onEnter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designly1/jquery.onEnter.js.git"
+  },
+  "keywords": [
+    "jquery",
+    "enter",
+    "key"
+  ],
+  "author": "Designly <jay@designly.biz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designly1/jquery.onEnter.js/issues"
+  },
+  "homepage": "https://github.com/designly1/jquery.onEnter.js#readme"
+}
